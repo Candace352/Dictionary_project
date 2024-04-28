@@ -28,6 +28,4 @@ This is a simple dictionary application built with Python and Tkinter. It allows
 - Users can enter a word in the text box, and upon clicking the "Search" button, the application retrieves the corresponding definition from the JSON file.
 - Users can also switch between dark and light themes using the "Theme" menu in the application's menu bar.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
